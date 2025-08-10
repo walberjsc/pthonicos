@@ -1,2 +1,2 @@
-# pthonicos
+# pythonicos
 repositorio de teste
